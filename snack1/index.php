@@ -50,7 +50,6 @@ $matches = array(
 
         <p>
             <?= $match["home"] ?> - <?= $match["guest"] ?> | <?= $match["home-score"] ?>-<?= $match["guest-score"] ?>
-
         </p>
 
 
